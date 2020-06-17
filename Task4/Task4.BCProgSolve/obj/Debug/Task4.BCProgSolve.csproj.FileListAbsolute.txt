@@ -1,0 +1,7 @@
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\bin\Debug\Task4.BCProgSolve.exe.config
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\bin\Debug\Task4.BCProgSolve.exe
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\bin\Debug\Task4.BCProgSolve.pdb
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\obj\Debug\Task4.BCProgSolve.csprojAssemblyReference.cache
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\obj\Debug\Task4.BCProgSolve.csproj.CoreCompileInputs.cache
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\obj\Debug\Task4.BCProgSolve.exe
+D:\3 year\Nix\Task4\Task4\Task4.BCProgSolve\obj\Debug\Task4.BCProgSolve.pdb

@@ -1,0 +1,7 @@
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\bin\Debug\Task3.BullsAndCows.exe.config
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\bin\Debug\Task3.BullsAndCows.exe
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\bin\Debug\Task3.BullsAndCows.pdb
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\obj\Debug\Task3.BullsAndCows.csproj.CoreCompileInputs.cache
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\obj\Debug\Task3.BullsAndCows.exe
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\obj\Debug\Task3.BullsAndCows.pdb
+D:\3 year\Nix\Task4\Task4\Task3.BullsAndCows\obj\Debug\Task3.BullsAndCows.csprojAssemblyReference.cache
